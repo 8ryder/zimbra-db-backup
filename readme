@@ -1,0 +1,4 @@
+1. place run* files in /etc/cron.daily/ folder
+2. place automysqlbackup in /usr/local/bin/ folder
+3. place and edit myserver.conf in /etc/automysqlbackup/
+

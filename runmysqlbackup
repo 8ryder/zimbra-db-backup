@@ -1,0 +1,4 @@
+#!/bin/sh
+
+/usr/local/bin/automysqlbackup /etc/automysqlbackup/myserver.conf
+chown zimbra:zimbra /opt/zimbra/backup/mysql -R
